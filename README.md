@@ -23,6 +23,38 @@ Banks and financial institutions lend to a wide range of customers across income
 
 ---
 
+## 📊 Dashboard Walkthrough
+
+<details open>
+<summary>🏠 Home Dashboard</summary>
+
+<img width="100%" src="https://github.com/user-attachments/assets/79e38ee8-5bf7-40d9-9412-d04778220d60" />
+
+</details>
+
+<details>
+<summary>📈 Loan Analysis</summary>
+
+<img width="100%" src="https://github.com/user-attachments/assets/84c4af0f-41a1-4711-80e2-1fbf83900797" />
+
+</details>
+
+<details>
+<summary>💰 Deposit Analysis</summary>
+
+<img width="100%" src="https://github.com/user-attachments/assets/3b305c4b-e573-45f7-b433-e33fb3ac8e63" />
+
+</details>
+
+<details>
+<summary>📋 Summary Dashboard</summary>
+
+<img width="100%" src="https://github.com/user-attachments/assets/28c98f24-5415-4b52-9b2b-5efc8308d6b1" />
+
+</details>
+
+---
+
 ## 🗂️ Dataset
 
 The dataset contains **3,000 customer records** across **25 columns**, including:
